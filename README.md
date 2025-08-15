@@ -75,7 +75,7 @@ Operating Systems, Database Management, Computer Networks, Data Structures, Algo
 <p>
   <a href="mailto:priyansh2005r@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/priyansh-raj-28601b2a7"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/priyansh14092"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/priyansh1409"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
