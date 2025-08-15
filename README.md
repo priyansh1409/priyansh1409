@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyansh Raj</h1>
 <h3 align="center">A passionate MERN Stack & AI developer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyansh1409&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -52,6 +56,7 @@ Operating Systems, Database Management, Computer Networks, Data Structures, Algo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh1409&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
+---
 
 ### 🚀 Projects
 
