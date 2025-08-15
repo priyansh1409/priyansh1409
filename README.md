@@ -34,17 +34,24 @@ Operating Systems, Database Management, Computer Networks, Data Structures, Algo
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansh14092&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh14092&theme=radical" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh14092&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh1409&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh1409&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh1409&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Optional contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh1409&theme=react-dark" alt="Contribution Graph"/>
+</p>
+
 
 ### 🚀 Projects
 
